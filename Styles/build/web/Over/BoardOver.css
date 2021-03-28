@@ -1,3 +1,6 @@
 @import url("../Common/Structure.css");
 @import url("../Common/Style.css");
 @import url("../Common/GreenColor.css");
+@import url("./Structure.css");
+@import url("./BoardOver/Structure.css");
+@import url("./BoardOver/Style.css");

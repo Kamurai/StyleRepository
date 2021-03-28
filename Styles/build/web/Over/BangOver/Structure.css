@@ -1,0 +1,147 @@
+/* Elements */
+
+/* Classes */
+.classTableMyListRowGender{
+    height: 100%;
+    height: 50vh;
+    max-height: 100%;
+    max-height: 50vh;
+    //width: 33%;
+    //width: 22vw;
+    width: auto;
+    //max-width: 33%;
+    //max-width: 22vw;
+}
+
+.classTableMyListRowSpanGender{
+    height: 100%;
+    height: 50vh;
+    max-height: 100%;
+    max-height: 50vh;
+    width: 33%;
+    width: 22vw;
+    //width: auto;
+    max-width: 33%;
+    max-width: 22vw;
+}
+
+.classTableMyListRowSex{
+    height: 100%;
+    height: 50vh;
+    max-height: 100%;
+    max-height: 50vh;
+    //width: 33%;
+    //width: 22vw;
+    width: auto;
+    //max-width: 33%;
+    //max-width: 22vw;
+}
+
+.classTableMyListRowSpanSex{
+    height: 100%;
+    height: 50vh;
+    max-height: 100%;
+    max-height: 50vh;
+    width: 33%;
+    width: 22vw;
+    //width: auto;
+    max-width: 33%;
+    max-width: 22vw;
+}
+
+.classTableManagementUsersColWomen{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+}
+
+.classTableManagementUsersColMen{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+}
+
+.classTableManagementUsersColTransWomen{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+}
+
+.classTableManagementUsersColTransMen{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw; 
+}
+
+/* IDs */
+#idTableManagementUsersColHeaderWomen{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+}
+    
+#idTableManagementUsersColHeaderMen{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+}
+    
+#idTableManagementUsersColHeaderTransWomen{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+}
+    
+#idTableManagementUsersColHeaderTransMen{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw; 
+}

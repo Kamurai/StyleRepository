@@ -1,0 +1,422 @@
+/* Elements */
+
+/* Classes */
+.classTableGlobalListRowSpanRelease{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableGlobalListRowRelease{
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    //display: table-cell;
+}
+
+.classTableGlobalListRowSpanGenre{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableGlobalListRowGenre{
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    //display: table-cell;
+}
+
+.classTableGlobalListRowSpanSetting{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableGlobalListRowSetting{
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    //display: table-cell;
+}
+
+.classTableManagementUsersColComedyM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColDramaM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColActionM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColHorrorM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColThrillerM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColMysteryM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColDocumentaryM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColScienceFictionM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColFantasyM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColWesternM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColMartialArtsM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColModernM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColHistoricM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColPrehistoricM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColComicsM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColPeriodM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+/* IDs */
+#idTableCompareRowSecond{
+    text-align: center;
+    border: 0px solid #e9f413;
+    margin: auto;
+    padding: 0px;
+    display: table-row;
+}
+
+#idTableCompareRowSecondLeft{
+    text-align: center;
+    border: 0px solid #e9f413;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowReleasesLeft{
+    text-align: center;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowSettingsLeft{
+    text-align: center;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowGenresLeft{
+    text-align: center;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowSecondRight{
+    text-align: center;
+    border: 0px solid #e9f413;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowReleasesRight{
+    text-align: center;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowSettingsRight{
+    text-align: center;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowGenresRight{
+    text-align: center;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableManagementUsersColHeaderComedyM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderDramaM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderaActionM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderHorrorM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderThrillerM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderMysteryM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderDocumentaryM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderScienceFictionM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderFantasyM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderWesternM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderMartialArtsM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderModernM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderHistoricM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderPrehistoricM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderComicsM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderPeriodM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderLoggedOn{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+

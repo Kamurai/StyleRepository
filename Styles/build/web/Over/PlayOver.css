@@ -1,3 +1,6 @@
 @import url("../Common/Structure.css");
 @import url("../Common/Style.css");
 @import url("../Common/VioletColor.css");
+@import url("./Structure.css");
+@import url("./PlayOver/Structure.css");
+@import url("./PlayOver/Style.css");

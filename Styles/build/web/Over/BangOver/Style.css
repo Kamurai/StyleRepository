@@ -1,0 +1,223 @@
+/** Classes **/
+/* My List */
+.classTableMyListRow{}
+
+.classTableMyListRowSpanNumber{}
+
+.classTableMyListRowNumber{}
+
+.classTableMyListRowSpanName{}
+
+.classTableMyListRowName{}
+
+.classTableMyListRowSpanPicture{
+    display: table-cell;
+}
+
+.classTableMyListRowPicture{}
+
+.classTableMyListRowSpanGender{
+    margin: auto;
+	text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableMyListRowGender{
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    //display: table-cell;
+}
+
+.classTableMyListRowSpanSex{
+    margin: auto;
+	text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableMyListRowSex{
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    //display: table-cell;
+}
+
+/* Global List */
+.classTableGlobalListHeaderRow{}
+
+.classTableGlobalListHeader{}
+
+.classTableGlobalListRow{}
+
+.classTableGlobalListRowSpanNumber{}
+
+.classTableGlobalListRowNumber{}
+
+.classTableGlobalListRowSpanName{}
+
+.classTableGlobalListRowName{}
+
+.classTableGlobalListRowSpanPicture{}
+
+.classTableGlobalListRowPicture{}
+
+.classTableGlobalListRowSpanGender{
+    margin: auto;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableGlobalListRowGender{
+    margin: auto;
+}
+
+.classTableGlobalListRowSpanRanking{}
+
+.classTableGlobalListRowRanking{}
+
+/* Management */
+.classTableManagementHeaderRow{}
+
+.classTableManagementHeader{}
+
+.classTableManagementRow{}
+
+.classTableManagementUsersColIndex{}
+
+.classTableManagementUsersColUsername{}
+
+.classTableManagementUsersColEmail{}
+
+.classTableManagementUsersColAdminLevel{}
+
+.classTableManagementUsersColWomen{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColMen{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColTransWomen{
+     border: 0px solid #f702f7;
+    
+	margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColTransMen{
+     border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColLoggedOn{}
+
+/** IDs **/
+/* Compare */
+#idTableCompare{}
+
+#idTableCompareRowPictures{}
+
+#idTableCompareRowDataPicturesLeft{}
+
+#idTableCompareRowDataPicturesRight{}
+
+#idTableCompareRowPicturesLeft{}
+
+#idTableCompareRowPicturesRight{}
+
+#idTableCompareRowNames{}
+
+#idTableCompareRowNamesLeft{}
+
+#idTableCompareRowNamesRight{}
+
+/* My List */
+#idTableMyList{}
+
+/* Global List */
+#idTableGlobalStats{}
+
+#idTableGlobalList{}
+
+/* Options */
+#idTableOptions{}
+
+/* Management */
+#idTableManagementStats{}
+
+#idTableManagementUsers{}
+
+#idTableManagementUsersColHeaderIndex{}
+    
+#idTableManagementUsersColHeaderUsername{}
+    
+#idTableManagementUsersColHeaderEmail{}
+    
+#idTableManagementUsersColHeaderAdminLevel{}
+    
+#idTableManagementUsersColHeaderWomen{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderMen{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderaTransWomen{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderTransMen{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderLoggedOn{}
+ 
+/* Add Target */ 
+#idContentAdd{}
+
+#idContentAddSuggestion{}
+
+/* Sign Up */
+#idContentSignUp{}
+
+#idTableSignUp{}

@@ -2,6 +2,17 @@ root {
     display: block;
 }
 
+html { 
+    min-height: 125%;
+    min-height: 125vh;
+    height: 125%;
+    height: 125vh;
+    max-height: 125%;
+    max-height: 125vh;
+    width: 100%;
+    width: 100vw;
+}
+
 /* Elements */
 body{
 	width: 100%;
