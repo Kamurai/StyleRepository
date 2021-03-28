@@ -1,0 +1,514 @@
+/* Elements */
+
+/* Classes */
+.classTableGlobalListRowSpanRelease{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableGlobalListRowRelease{
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    //display: table-cell;
+}
+
+.classTableGlobalListRowSpanPlatform{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableGlobalListRowPlatform{
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    //display: table-cell;
+}
+
+.classTableGlobalListRowSpanGenre{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableGlobalListRowGenre{
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    //display: table-cell;
+}
+
+.classTableManagementUsersColTwoDP{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColThreeDP{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColFPS{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColFPP{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColVPuzzle{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColBulletstorm{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColFighting{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColStealth{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColSurvival{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColVN{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColIM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColRPG{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColTRPG{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColARPG{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColSports{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColRacing{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColRTS{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColTBS{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColVE{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColMMO{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColMoba{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColOnline{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+/* IDs */
+#idForm{}
+
+#idTableCompareRowSecond{
+    border: 0px solid #e9f413;
+    margin: auto;
+    padding: 0px;
+    display: table-row;
+}
+
+#idTableCompareRowSecondLeft{
+    border: 0px solid #e9f413;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowReleasesLeft{
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowPlatformsLeft{
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowGenresLeft{
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowSecondRight{
+    border: 0px solid #e9f413;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowReleasesRight{
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowPlatformsRight{
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowGenresRight{
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderTwoDP{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderThreeDP{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderaFPS{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderFPP{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderVPuzzle{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderBulletstorm{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderFighting{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderStealth{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderSurvival{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderVN{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderIM{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderRPG{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderTRPG{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderARPG{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderSports{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderRacing{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderRTS{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderTBS{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderVE{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderMMO{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderMoba{
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+#idRadioAddGenre2{}
+
+#idRadioAddPlatform2{}
+
+#idRadioAddGenre1{}
+
+#idRadioAddPlatform1{}
+
+
+

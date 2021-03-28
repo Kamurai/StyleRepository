@@ -1,0 +1,232 @@
+/** Classes **/
+/* My List */
+.classTableMyListRow{}
+
+.classTableMyListRowSpanNumber{
+	color: #ffffff;
+}
+
+.classTableMyListRowNumber{
+	color: #ffffff;
+}
+
+.classTableMyListRowSpanName{
+    color: #ffffff;
+}
+
+.classTableMyListRowName{
+    color: #ffffff;
+}
+
+.classTableMyListRowSpanPicture{}
+
+.classTableMyListRowPicture{}
+
+.classTableMyListRowSpanGender{
+    color: #ffffff;
+}
+
+.classTableMyListRowGender{
+    color: #ffffff;
+}
+
+.classTableMyListRowSpanSex{
+    color: #ffffff;
+}
+
+.classTableMyListRowSex{
+    color: #ffffff;
+}
+
+
+/* Global List */
+.classTableGlobalListHeaderRow{}
+
+.classTableGlobalListHeader{
+	color: #ffffff;
+}
+
+.classTableGlobalListRow{}
+
+.classTableGlobalListRowSpanNumber{}
+
+.classTableGlobalListRowNumber{
+    color: #ffffff; 
+}
+
+.classTableGlobalListRowSpanName{}
+
+.classTableGlobalListRowName{
+    color: #ffffff;
+}
+
+.classTableGlobalListRowSpanPicture{}
+
+.classTableGlobalListRowPicture{}
+
+.classTableGlobalListRowSpanGender{
+    color: #ffffff;
+}
+
+.classTableGlobalListRowGender{
+    color: #ffffff;
+}
+
+.classTableGlobalListRowSpanRanking{}
+
+.classTableGlobalListRowRanking{
+    color: #ffffff;
+}
+
+/* Management */
+.classTableManagementHeaderRow{}
+
+.classTableManagementHeader{
+    color: #ffffff;
+}
+
+.classTableManagementRow{}
+
+.classTableManagementUsersColIndex{
+    color: #ffffff;
+}
+
+.classTableManagementUsersColUsername{
+    color: #ffffff;
+}
+
+.classTableManagementUsersColEmail{
+    color: #ffffff;
+}
+
+.classTableManagementUsersColAdminLevel{
+    color: #ffffff;
+}
+
+.classTableManagementUsersColWomen{
+    color: #ffffff;
+}
+
+.classTableManagementUsersColMen{
+    color: #ffffff;
+}
+
+.classTableManagementUsersColTransWomen{
+    color: #ffffff;
+}
+
+.classTableManagementUsersColTransMen{
+    color: #ffffff;
+}
+
+.classTableManagementUsersColLoggedOn{
+    color: #ffffff;
+}
+
+/** IDs **/
+/* Compare */
+#idTableCompare{}
+
+#idTableCompareRowPictures{}
+
+#idTableCompareRowDataPicturesLeft{}
+
+#idTableCompareRowDataPicturesRight{}
+
+#idTableCompareRowPicturesLeft{}
+
+#idTableCompareRowPicturesRight{}
+
+#idTableCompareRowNames{
+	color: #ffffff;
+}
+
+#idTableCompareRowNamesLeft{
+	color: #ffffff;
+}
+
+#idTableCompareRowNamesRight{
+	color: #ffffff;
+}
+
+/* My List */
+#idTableMyList{
+    color: #ffffff;
+}
+
+/* Global List */
+#idTableGlobalStats{
+    color: #ffffff;
+}
+
+#idTableGlobalList{
+    color: #ffffff;
+}
+
+/* Options */
+#idTableOptions{
+    color: #ffffff;
+}
+
+/* Management */
+#idTableManagementStats{
+    color: #ffffff;
+}
+
+#idTableManagementUsers{
+    color: #ffffff;
+}
+
+#idTableManagementUsersColHeaderIndex{
+    color: #ffffff;
+}
+    
+#idTableManagementUsersColHeaderUsername{
+    color: #ffffff;
+}
+    
+#idTableManagementUsersColHeaderEmail{
+    color: #ffffff;
+}
+    
+#idTableManagementUsersColHeaderAdminLevel{
+    color: #ffffff;
+}
+    
+#idTableManagementUsersColHeaderWomen{
+    color: #ffffff;
+}
+    
+#idTableManagementUsersColHeaderMen{
+    color: #ffffff;
+}
+    
+#idTableManagementUsersColHeaderaTransWomen{
+    color: #ffffff;
+}
+    
+#idTableManagementUsersColHeaderTransMen{
+    color: #ffffff;
+}
+    
+#idTableManagementUsersColHeaderLoggedOn{
+    color: #ffffff;
+}
+ 
+/* Add Target */ 
+#idContentAdd{
+    color: #ffffff;
+}
+
+#idContentAddSuggestion{
+    color: #ffffff;
+}
+
+/* Sign Up */
+#idContentSignUp{
+    color: #ffffff;
+}
+
+#idTableSignUp{
+    color: #ffffff;
+}

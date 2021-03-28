@@ -1,3 +1,6 @@
 @import url("../Common/Structure.css");
 @import url("../Common/Style.css");
 @import url("../Common/OrangeColor.css");
+@import url("./Structure.css");
+@import url("./ShowOver/Structure.css");
+@import url("./ShowOver/Style.css");

@@ -1,0 +1,1173 @@
+/* Elements */
+
+/* Classes */
+.classTableGlobalListRowSpanRelease{
+    height: 100%;
+    height: 20vh;
+    max-height: 100%;
+    max-height: 20vh;
+    width: 20%;
+    width: 14vh;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableGlobalListRowRelease{
+    height: 100%;
+    height: 20vh;
+    max-height: 100%;
+    max-height: 20vh;
+    //width: 33%;
+    //width: 22vw;
+    width: auto;
+    //max-width: 33%;
+    //max-width: 22vw;
+    
+    color: #aaaaaa;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    //display: table-cell;
+}
+
+.classTableGlobalListRowSpanPlatform{
+    height: 100%;
+    height: 20vh;
+    max-height: 100%;
+    max-height: 20vh;
+    width: 20%;
+    width: 14vh;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableGlobalListRowPlatform{
+    height: 100%;
+    height: 20vh;
+    max-height: 100%;
+    max-height: 20vh;
+    //width: 33%;
+    //width: 22vw;
+    width: auto;
+    //max-width: 33%;
+    //max-width: 22vw;
+    
+    color: #aaaaaa;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    //display: table-cell;
+}
+
+.classTableGlobalListRowSpanGenre{
+    height: 100%;
+    height: 20vh;
+    max-height: 100%;
+    max-height: 20vh;
+    width: 20%;
+    width: 14vh;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableGlobalListRowGenre{
+    height: 100%;
+    height: 20vh;
+    max-height: 100%;
+    max-height: 20vh;
+    //width: 33%;
+    //width: 22vw;
+    width: auto;
+    //max-width: 33%;
+    //max-width: 22vw;
+    
+    color: #aaaaaa;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    //display: table-cell;
+}
+
+.classTableManagementUsersColTwoDP{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColThreeDP{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColFPS{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColFPP{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColVPuzzle{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColBulletstorm{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColFighting{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColStealth{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColSurvival{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColVN{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColIM{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColRPG{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColTRPG{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColARPG{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColSports{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColRacing{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColRTS{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColTBS{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColVE{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColMMO{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColMoba{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.classTableManagementUsersColOnline{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+/* IDs */
+#idForm{}
+
+#idTableCompareRowSecond{
+    width: 100%;
+    width: 70vw;
+    max-width: 100%;
+    max-width: 70vw;
+    
+    text-align: center;
+    color: #aaaaaa;
+    border: 0px solid #e9f413;
+    margin: auto;
+    padding: 0px;
+    display: table-row;
+}
+
+#idTableCompareRowSecondLeft{
+    width: 50%;
+    width: 35vw;
+    max-width: 50%;
+    max-width: 35vw;
+    
+    text-align: center;
+    color: #aaaaaa;
+    border: 0px solid #e9f413;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowReleasesLeft{
+    width: 16%;
+    width: 11vw;
+    max-width: 16%;
+    max-width: 11vw;
+    
+    text-align: center;
+    color: #aaaaaa;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowPlatformsLeft{
+    width: 16%;
+    width: 11vw;
+    max-width: 16%;
+    max-width: 11vw;
+    
+    text-align: center;
+    color: #aaaaaa;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowGenresLeft{
+    width: 16%;
+    width: 11vw;
+    max-width: 16%;
+    max-width: 11vw;
+    
+    text-align: center;
+    color: #aaaaaa;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowSecondRight{
+    width: 50%;
+    width: 35vw;
+    max-width: 50%;
+    max-width: 35vw;
+    
+    text-align: center;
+    color: #aaaaaa;
+    border: 0px solid #e9f413;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowReleasesRight{
+    width: 16%;
+    width: 11vw;
+    max-width: 16%;
+    max-width: 11vw;
+    
+    text-align: center;
+    color: #aaaaaa;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowPlatformsRight{
+    width: 16%;
+    width: 11vw;
+    max-width: 16%;
+    max-width: 11vw;
+    
+    text-align: center;
+    color: #aaaaaa;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+
+#idTableCompareRowGenresRight{
+    width: 16%;
+    width: 11vw;
+    max-width: 16%;
+    max-width: 11vw;
+    
+    text-align: center;
+    color: #aaaaaa;
+    border: 0px solid #f702f7;
+    margin: auto;
+    padding: 0px;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderTwoDP{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderThreeDP{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderaFPS{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderFPP{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderVPuzzle{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderBulletstorm{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderFighting{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderStealth{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderSurvival{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderVN{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderIM{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderRPG{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderTRPG{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderARPG{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderSports{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderRacing{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderRTS{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderTBS{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderVE{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderMMO{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+    
+#idTableManagementUsersColHeaderMoba{
+    height: 100%;
+    height: 5vh;
+    max-height: 100%;
+    max-height: 5vh;
+    width: 20%;
+    width: 14vw;
+    //width: auto;
+    max-width: 20%;
+    max-width: 14vw;
+    
+    color: #aaaaaa;
+    
+    border: 0px solid #f702f7;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+}
+
+#idRadioAddGenre2{
+    color: #000000;    
+}
+
+#idRadioAddPlatform2{
+    color: #000000;    
+}
+
+#idRadioAddGenre1{
+    color: #000000;
+}
+
+#idRadioAddPlatform1{
+    color: #000000;    
+}
+
+
+
