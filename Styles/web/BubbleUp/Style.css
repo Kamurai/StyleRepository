@@ -1,7 +1,100 @@
 /* Elements */
 body{
-    color: #ffffff;
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 100%;
+    line-height: 25px;
 }
+
+a{
+    font-family: Verdana, Geneva, sans-serif;
+    color: #0000ff;
+}
+
+a:hover {
+    font-family: Verdana, Geneva, sans-serif;
+    color: #00aa00;
+}
+
+h1{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 175%;
+    color: #0000ff;
+}
+
+h2{
+    vertical-align: top;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 150%;
+    color: #0000ff;
+    text-align: center;
+    text-decoration: underline;
+    padding: 0px;
+}
+
+h3{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 130%;
+    color: #0000ff;
+    text-align: center;
+}
+
+h4{
+    width: 100%;
+    max-width: 100%;
+
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 120%;
+    color: #bbbbbb;
+    text-align: center;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    background-color: #0000ff;
+
+}
+
+h5{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 80%;
+    color: #0000ff;
+    text-align: left;
+    padding-left: 15px;
+}
+
+h6{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 70%;
+    color: #0000ff;
+    text-align: left;
+    padding-left: 20px;
+}
+
+navlink{
+    width: auto;
+
+    font-weight: bold;
+    border: transparent;
+    padding: 2px;
+    text-align: left;
+
+}
+
+navlink a{
+    padding: 0px;
+    text-decoration: underline;
+    display: block;
+    color: #0000ff;
+    border: transparent;
+    margin: 0px;
+}
+
+navlink a:hover{
+    color: #00aa00;
+}
+
 /* Classes */
 .classHorizontal{
     display: inline-block;
@@ -11,10 +104,7 @@ body{
     display: block;
 }
 
-.classTopBox{
-    background: #f44242;
-    border: 1px solid #000000;
-    
+.classTopBox{    
     width: fit-content;
     height: fit-content;
     vertical-align: top;
@@ -22,9 +112,6 @@ body{
 }
 
 .classBox{
-    background: #f44242;
-    border: 1px solid #000000;
-    
     width: fit-content;
     height: fit-content;
     vertical-align: top;
@@ -32,21 +119,18 @@ body{
 }
 
 .classBoxInput{
-    background: #00ffff;
     width: 100px;
     vertical-align: top;
     text-align: center;
 }
 
 .classTarget{
-    background: #b702b7;
     width:  100%;
     vertical-align: top;
     text-align: center;
 }
 
 .classTargetInput{
-    background: #b702b7;
     vertical-align: top;
     text-align: center;
     
@@ -54,14 +138,12 @@ body{
 }
 
 .classBoxLabelSection{
-    /*background: #68f442;*/
     width:  100%;
     vertical-align: top;
     text-align: center;
 }
 
 .classBoxLabelRow{
-    /*background: #f44242;*/
     width: 100%;
     height: 3%;
     vertical-align: top;
@@ -69,12 +151,10 @@ body{
 }
 
 .classBoxLabelHeader{
-    background: #00ffff;
     width:  100%;
 }
 
 .classBoxSubRow{
-    /*background: #41f45c;*/
     width: auto;
     height: 97%;
     vertical-align: top;
@@ -87,7 +167,6 @@ body{
 }
 
 .classTargetLabel{
-    /*background: #00edff;*/
     width:  100%;
 }
 
@@ -98,9 +177,7 @@ body{
 
 /* IDs */
 #idMainStructure{
-    background: #fe00ed;
     width:  auto;
     height: 100% !important;
-    color: #ffffff;
 }
 

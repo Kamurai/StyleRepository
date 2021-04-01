@@ -1,0 +1,61 @@
+/* Elements */
+body{
+    color: #ffffff;
+}
+/* Classes */
+.classHorizontal{}
+
+.classVertical{}
+
+.classTopBox{
+    background: #f44242;
+    border: 1px solid #000000;
+}
+
+.classBox{
+    background: #f44242;
+    border: 1px solid #000000;
+}
+
+.classBoxInput{
+    background: #00ffff;
+}
+
+.classTarget{
+    background: #b702b7;
+}
+
+.classTargetInput{
+    background: #b702b7;
+}
+
+.classBoxLabelSection{
+    /*background: #68f442;*/
+}
+
+.classBoxLabelRow{
+    /*background: #f44242;*/
+}
+
+.classBoxLabelHeader{
+    background: #00ffff;
+}
+
+.classBoxSubRow{
+    /*background: #41f45c;*/
+}
+
+.classTargetLabelRow{}
+
+.classTargetLabel{
+    /*background: #00edff;*/
+}
+
+.classButtons{}
+
+/* IDs */
+#idMainStructure{
+    background: #fe00ed;
+    color: #ffffff;
+}
+

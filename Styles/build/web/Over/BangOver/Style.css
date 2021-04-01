@@ -27,7 +27,7 @@
     margin: auto;
     text-align: center;
     vertical-align: top;
-    //display: table-cell;
+    /*display: table-cell;*/
 }
 
 .classTableMyListRowSpanSex{
@@ -41,7 +41,7 @@
     margin: auto;
     text-align: center;
     vertical-align: top;
-    //display: table-cell;
+    /*display: table-cell;*/
 }
 
 /* Global List */
@@ -113,14 +113,14 @@
 .classTableManagementUsersColTransWomen{
      border: 0px solid #f702f7;
     
-	margin: auto;
+    margin: auto;
     text-align: center;
     vertical-align: top;
     display: table-cell;
 }
 
 .classTableManagementUsersColTransMen{
-     border: 0px solid #f702f7;
+    border: 0px solid #f702f7;
     
     margin: auto;
     text-align: center;

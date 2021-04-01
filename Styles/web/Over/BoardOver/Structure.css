@@ -5,14 +5,9 @@
     max-height: 20vh;
     width: 20%;
     width: 14vh;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableGlobalListRowRelease{
@@ -20,18 +15,11 @@
     height: 20vh;
     max-height: 100%;
     max-height: 20vh;
-    //width: 33%;
-    //width: 22vw;
+    /*width: 33%;*/
+    /*width: 22vw;*/
     width: auto;
-    //max-width: 33%;
-    //max-width: 22vw;
-    
-    color: #aaaaaa;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    //display: table-cell;
+    /*max-width: 33%;*/
+    /*max-width: 22vw;*/
 }
 
 .classTableGlobalListRowSpanGenre{
@@ -41,18 +29,9 @@
     max-height: 20vh;
     width: 20%;
     width: 14vh;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableGlobalListRowGenre{
@@ -60,18 +39,11 @@
     height: 20vh;
     max-height: 100%;
     max-height: 20vh;
-    //width: 33%;
-    //width: 22vw;
+    /*width: 33%;*/
+    /*width: 22vw;*/
     width: auto;
-    //max-width: 33%;
-    //max-width: 22vw;
-    
-    color: #aaaaaa;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    //display: table-cell;
+    /*max-width: 33%;*/
+    /*max-width: 22vw;*/
 }
 
 .classTableManagementUsersColDeckBuilding{
@@ -81,18 +53,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColFixedDeck{
@@ -102,18 +65,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColConstructedDeck{
@@ -123,18 +77,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColStrategy{
@@ -144,18 +89,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColWar{
@@ -165,18 +101,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColEconomy{
@@ -186,18 +113,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColTableauBuilding{
@@ -207,18 +125,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColCoop{
@@ -228,18 +137,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColMystery{
@@ -249,18 +149,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColSemiCoop{
@@ -270,18 +161,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColPPRPG{
@@ -291,18 +173,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
-    max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
+    max-width: 14vw;    
 }
 
 .classTableManagementUsersColBluffing{
@@ -312,18 +185,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColPuzzle{
@@ -333,18 +197,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColDexterity{
@@ -354,18 +209,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColParty{
@@ -375,18 +221,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 .classTableManagementUsersColOnline{
@@ -396,18 +233,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 /* IDs */
@@ -416,13 +244,6 @@
     width: 70vw;
     max-width: 100%;
     max-width: 70vw;
-    
-    text-align: center;
-    color: #aaaaaa;
-    border: 0px solid #e9f413;
-    margin: auto;
-    padding: 0px;
-    display: table-row;
 }
 
 #idTableCompareRowReleasesLeft{
@@ -430,13 +251,6 @@
     width: 35vw;
     max-width: 50%;
     max-width: 35vw;
-    
-    text-align: center;
-    color: #aaaaaa;
-    border: 0px solid #f702f7;
-    margin: auto;
-    padding: 0px;
-    display: table-cell;
 }
 
 #idTableCompareRowReleasesRight{
@@ -444,13 +258,6 @@
     width: 35vw;
     max-width: 50%;
     max-width: 35vw;
-    
-    text-align: center;
-    color: #aaaaaa;
-    border: 0px solid #f702f7;
-    margin: auto;
-    padding: 0px;
-    display: table-cell;
 }
 
 #idTableCompareRowPlatform{
@@ -458,13 +265,6 @@
     width: 70vw;
     max-width: 100%;
     max-width: 70vw;
-    
-    text-align: center;
-    color: #aaaaaa;
-    border: 0px solid #e9f413;
-    margin: auto;
-    padding: 0px;
-    display: table-row;
 }
 
 #idTableCompareRowPlatformLeft{
@@ -472,13 +272,6 @@
     width: 35vw;
     max-width: 50%;
     max-width: 35vw;
-    
-    text-align: center;
-    color: #aaaaaa;
-    border: 0px solid #f702f7;
-    margin: auto;
-    padding: 0px;
-    display: table-cell;
 }
 
 #idTableCompareRowPlatformRight{
@@ -486,13 +279,6 @@
     width: 35vw;
     max-width: 50%;
     max-width: 35vw;
-    
-    text-align: center;
-    color: #aaaaaa;
-    border: 0px solid #f702f7;
-    margin: auto;
-    padding: 0px;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderDeckBuilding{
@@ -502,18 +288,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderFixedDeck{
@@ -523,18 +300,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderaConstructedDeck{
@@ -544,18 +312,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderStrategy{
@@ -565,18 +324,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderWar{
@@ -586,18 +336,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderEconomy{
@@ -607,18 +348,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderTableauBuilding{
@@ -628,18 +360,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderCoop{
@@ -649,18 +372,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderMystery{
@@ -670,18 +384,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderSemiCoop{
@@ -691,18 +396,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderPPRPG{
@@ -712,18 +408,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderBluffing{
@@ -733,18 +420,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderPuzzle{
@@ -754,18 +432,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderDexterity{
@@ -775,18 +444,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderParty{
@@ -796,18 +456,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
     
 #idTableManagementUsersColHeaderOnline{
@@ -817,18 +468,9 @@
     max-height: 5vh;
     width: 20%;
     width: 14vw;
-    //width: auto;
+    /*width: auto;*/
     max-width: 20%;
     max-width: 14vw;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #f702f7;
-    
-    margin: auto;
-    text-align: center;
-    vertical-align: top;
-    display: table-cell;
 }
 
 #idRadioAddGenre2{
@@ -839,14 +481,6 @@
     height: auto;
     width: 100%;
     max-width: 100%;
-    
-    color: #aaaaaa;
-    
-    border: 0px solid #FE0101;
-    
-    text-align: left;
-    vertical-align: top;
-    
 }
 
 #idAddTarget1{
