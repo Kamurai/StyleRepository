@@ -23,3 +23,16 @@
 .cardPicture{
     
 }
+
+.statBlock{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.relatedCharacterBlock{
+    display: inline-block;
+    vertical-align: top;
+    
+    width: 10%;
+    
+}

@@ -20,14 +20,14 @@
 }
 
 .galleryPictureContainer{
-    width: 			24%;
-    height: 		auto;
-    display: 		inline-block;
-	vertical-align: top;
+    width:          24%;
+    height:         auto;
+    display:        inline-block;
+    vertical-align: top;
 }
 
 .galleryPicture{
-    width: 	100%;
+    width:  100%;
     height: auto;
 }
 
@@ -37,4 +37,27 @@
 
 .navTriColumn{
     display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.navDuoRow{
+    vertical-align: top;
+}
+
+.navItemDuoColumn{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.navItemBody{
+    
+}
+
+.navItemTitle{
+    
+}
+
+.navDuoTitle{
+    text-align: center;
 }
