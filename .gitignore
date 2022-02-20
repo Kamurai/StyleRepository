@@ -1,2 +1,5 @@
 
 Styles/nbproject/private/private.properties
+*.xml
+*.properties
+**/build/*.*
