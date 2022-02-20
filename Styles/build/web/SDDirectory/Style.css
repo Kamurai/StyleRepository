@@ -1,8 +1,12 @@
 
+body{
+    background-color: #000000;    
+}
+
 /* IDs */
 #idMainLogoContainer{
     text-align: center;
-    background-color: #00000;
+    background-color: #000000;
 }
 
 #idSDELogoContainer{
