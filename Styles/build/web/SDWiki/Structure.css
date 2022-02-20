@@ -19,6 +19,15 @@
     width: 100%;
 }
 
+.standiePictureContainer{
+    width: 		48%;
+    display: 	inline-block;
+}
+
+.standiePicture{
+    width: 100%;
+}
+
 .galleryPictureContainer{
     width:          24%;
     height:         auto;
