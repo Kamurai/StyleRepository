@@ -1,0 +1,38 @@
+
+/* IDs */
+#idMainLogoContainer{
+    text-align: center;
+    background-color: #00000;
+}
+
+#idSDELogoContainer{
+    text-align: center;
+    background-color: #194007;
+}
+
+#idLogo{
+    
+}
+
+/* Classes */
+
+.cardPictureContainer{
+    
+}
+
+.cardPicture{
+    
+}
+
+.statBlock{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.relatedCharacterBlock{
+    display: inline-block;
+    vertical-align: top;
+    
+    width: 10%;
+    
+}

@@ -1,0 +1,63 @@
+/* IDs */
+#idSDELogoContainer{
+    width: 		100%;
+    height: 	25%;
+    max-height: 25%;
+}
+
+#idLogo{
+    height: 25%;
+}
+
+/* Classes */
+.cardPictureContainer{
+    width: 		48%;
+    display: 	inline-block;
+}
+
+.cardPicture{
+    width: 100%;
+}
+
+.galleryPictureContainer{
+    width:          24%;
+    height:         auto;
+    display:        inline-block;
+    vertical-align: top;
+}
+
+.galleryPicture{
+    width:  100%;
+    height: auto;
+}
+
+.navigationUl{
+    padding: 0;
+}
+
+.navTriColumn{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.navDuoRow{
+    vertical-align: top;
+}
+
+.navItemDuoColumn{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.navItemBody{
+    
+}
+
+.navItemTitle{
+    
+}
+
+.navDuoTitle{
+    text-align: center;
+}
