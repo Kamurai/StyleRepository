@@ -3,3 +3,5 @@ Styles/nbproject/private/private.properties
 *.xml
 *.properties
 **/build/*.*
+Styles/dist/Styles.war
+Styles/build/web/gfv510ee8.dpf
