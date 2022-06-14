@@ -9,6 +9,11 @@
     height: 25%;
 }
 
+#idCenterRowLeft{
+    width: auto;
+    max-width: 20%;
+}
+
 /* Classes */
 .cardPictureContainer{
     width: 		48%;
