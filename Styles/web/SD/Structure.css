@@ -9,4 +9,17 @@
     height: 25%;
 }
 
+#idCenterRowMain{
+    width: 83%;
+    max-width: 83%;
+    height: 68vh;
+    
+    overflow-y: scroll;
+    overflow-x: visible;
+}
+
+#idCenterRowRight{
+    width: 0px;
+}
+
 /* Classes */
